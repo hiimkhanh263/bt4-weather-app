@@ -17,6 +17,8 @@
   height: auto;
   display: flex;
   margin: 0 auto;
+  /* justify-content: center;
+  align-items: center; */
   background-color: #fff;
   padding: 30px 12px 0;
   font-size: 12px;
@@ -31,4 +33,10 @@
   width: 65%;
   height: 100%;
   padding-left: 30px;
+}
+
+@media (min-width: 1536px) {
+  .container {
+    max-width: 640px;
+  }
 }
