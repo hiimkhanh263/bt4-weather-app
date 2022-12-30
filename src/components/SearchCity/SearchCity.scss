@@ -1,0 +1,21 @@
+.location {
+  display: flex;
+  justify-content: space-between;
+
+  p {
+    text-align: center;
+    line-height: 26px;
+    font-weight: 500;
+  }
+
+  .search-city {
+    margin-left: 6px;
+    padding: 4px 6px;
+    border-radius: 5px;
+    border: 1px solid rgb(190, 190, 190);
+
+    &:focus {
+      outline: none;
+    }
+  }
+}

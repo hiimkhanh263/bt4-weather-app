@@ -1,0 +1,34 @@
+.header-detail {
+  display: flex;
+  position: relative;
+
+  .info-today {
+    width: 32%;
+    height: auto;
+    padding: 0;
+    margin-bottom: 12px;
+  }
+
+  .header-detail-info {
+    display: flex;
+    width: 70%;
+    height: auto;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 500;
+
+    .line {
+      display: flex;
+      flex-direction: column;
+
+      p {
+        padding-bottom: 12px;
+      }
+
+      span {
+        color: rgb(78, 147, 250);
+      }
+    }
+  }
+}

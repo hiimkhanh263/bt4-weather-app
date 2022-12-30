@@ -1,0 +1,36 @@
+.wrapper {
+  width: 65%;
+  height: 100%;
+  padding-left: 30px;
+  display: flex;
+}
+
+.tomorrow {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  padding: 10px 0;
+  border-radius: 5px;
+
+  .row-date {
+    font-size: 12px;
+    font-weight: 500;
+    color: #000;
+  }
+
+  img {
+    margin-bottom: 8px;
+  }
+
+  .row-num {
+    color: #000;
+    font-weight: 400;
+  }
+
+  &:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.09);
+  }
+}
