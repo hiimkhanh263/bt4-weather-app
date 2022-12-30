@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bt4-weather-app/static/css/main.c302133e.css",
+    "main.js": "/bt4-weather-app/static/js/main.703ae06b.js",
+    "static/js/787.69d1549d.chunk.js": "/bt4-weather-app/static/js/787.69d1549d.chunk.js",
+    "index.html": "/bt4-weather-app/index.html",
+    "main.c302133e.css.map": "/bt4-weather-app/static/css/main.c302133e.css.map",
+    "main.703ae06b.js.map": "/bt4-weather-app/static/js/main.703ae06b.js.map",
+    "787.69d1549d.chunk.js.map": "/bt4-weather-app/static/js/787.69d1549d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c302133e.css",
+    "static/js/main.703ae06b.js"
+  ]
+}
