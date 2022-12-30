@@ -12,8 +12,8 @@
   align-items: center;
 }
 
-.container {
-  max-width: 650px !important;
+.content {
+  width: 650px !important;
   height: auto;
   display: flex;
   margin: 0 auto;
@@ -35,8 +35,8 @@
   padding-left: 30px;
 }
 
-@media (min-width: 1536px) {
+/* @media (min-width: 1536px) {
   .container {
     max-width: 640px;
   }
-}
+} */
