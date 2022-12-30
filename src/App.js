@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="body">
       {show && (
-        <div className="weather-content">
+        <div className="content">
           <div className="left">
             <SearchCity />
 
