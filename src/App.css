@@ -12,7 +12,7 @@
   align-items: center;
 }
 
-.content {
+.weather-content {
   width: 650px !important;
   height: auto;
   display: flex;
